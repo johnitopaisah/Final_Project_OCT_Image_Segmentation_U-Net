@@ -63,3 +63,9 @@ The model leverages the U-Net architecture, which is widely used for image segme
    ```bash
    git clone https://github.com/your-username/retinal-oct-segmentation.git
    cd retinal-oct-segmentation
+
+
+
+## **Usage**
+
+## **Result**
