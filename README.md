@@ -72,7 +72,7 @@ The model leverages the U-Net architecture, which is widely used for image segme
 
 ## **Usage**
 1. **Preprocess the Dataset:**
-Place OCT images and their segmentation masks in the data dir
+Place OCT images and their segmentation masks in the dataset dir
 2. **Train the Model:**
  ```bash
  python3 train.py
