@@ -62,15 +62,24 @@ The model leverages the U-Net architecture, which is widely used for image segme
 1. Clone the repository:  
    ```bash
    git clone https://github.com/johnitopaisah/Final_Project_OCT_Image_Segmentation_U-Net.git
-   cd Final_Project_OCT_Image_Segmentation_U-Net.git
+   cd Final_Project_OCT_Image_Segmentation_U-Net
 
 2. Create a virtual environment and install all the dependencies
    ```bash
-   python -m venv u-net     # you can call your virtual environment any name not necessary 'u-net'
+   python -m venv u-net     # you can call 'u-net' any name
    source venv/bin/activate # On Windows, use 'venv\Scripts\activate
    pip install -r requirements.txt
 
 ## **Usage**
-1.
+1. **Preprocess the Dataset:**
+Place OCT images and their segmentation masks in the data dir
+2. **Train the Model:**
+ ```bash
+ python3 train.py
+
+3. **Test on New Images:**
+ ```bash
+ python3 test.py
 
 ## **Result**
+**. Mean Dice Coefficient:** 0
