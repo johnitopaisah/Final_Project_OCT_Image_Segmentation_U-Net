@@ -61,11 +61,16 @@ The model leverages the U-Net architecture, which is widely used for image segme
 ## **Installation**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/retinal-oct-segmentation.git
-   cd retinal-oct-segmentation
+   git clone https://github.com/johnitopaisah/Final_Project_OCT_Image_Segmentation_U-Net.git
+   cd Final_Project_OCT_Image_Segmentation_U-Net.git
 
-
+2. Create a virtual environment and install all the dependencies
+   ```bash
+   python -m venv u-net     # you can call your virtual environment any name not necessary 'u-net'
+   source venv/bin/activate # On Windows, use 'venv\Scripts\activate
+   pip install -r requirements.txt
 
 ## **Usage**
+1.
 
 ## **Result**
