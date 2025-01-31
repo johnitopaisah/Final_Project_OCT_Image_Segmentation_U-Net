@@ -88,3 +88,8 @@ The model achieved the following performance metrics on the test dataset:
 
 - **Mean Dice Coefficient:** `0.86 ± 0.05`
 - **Mean Intersection over Union (IoU):** `0.80 ± 0.06`
+
+## **Contributors**
+- [**John Itopa ISAH**](https://github.com/johnitopisah)
+- [**Thomas PERSET**](https://github.com/Thomas-Perset)
+Feel free to reach out to us for collaborations or questions about this project!
