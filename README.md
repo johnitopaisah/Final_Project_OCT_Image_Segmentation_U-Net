@@ -76,10 +76,12 @@ Place OCT images and their segmentation masks in the data dir
 2. **Train the Model:**
  ```bash
  python3 train.py
+ ```
 
 3. **Test on New Images:**
  ```bash
  python3 test.py
+ ```
 
 ## **Result**
 The model achieved the following performance metrics on the test dataset:
