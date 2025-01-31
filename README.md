@@ -40,7 +40,7 @@ The model leverages the U-Net architecture, which is widely used for image segme
 - **Bottleneck**: Captures the most critical features at the center of the network.  
 - **Decoder**: Reconstructs the segmented output using transpose convolution and skip connections.  
 
-![U-Net Architecture](https://www.google.com/url?sa=i&url=https%3A%2F%2Flmb.informatik.uni-freiburg.de%2Fpeople%2Fronneber%2Fu-net%2F&psig=AOvVaw1ZoKEuig_ICrMvTTLizOKn&ust=1738435245783000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKig25fOoIsDFQAAAAAdAAAAABAE) <!-- Add your own diagram if needed -->
+![U-Net Architecture](./images/u-net-architecture.png) <!-- Add your own diagram if needed -->
 
 ---
 
